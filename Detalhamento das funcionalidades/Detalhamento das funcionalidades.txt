@@ -1,0 +1,82 @@
+# Detalhamento das funcionalidades
+
+
+
+
+
+**Nome da funcionalidade:** FAQ.
+
+**Objetivo:** Tirar dúvidas através de uma lista das dúvidas mais frequentes e suas respostas.
+
+**Descrição:** O paciente acessa inicialmente o "Home", e depois no menu escolhe a opção FAQ.
+
+**Escopo:** 5 perguntas.
+
+**Personas / Atores envolvidos:** Paciente
+
+**Principais jornadas:** Acesso rápido a dúvidas
+
+**Regras de negócio:** Respostas devem estar sempre atualizadas; conteúdo validado pela equipe responsável.
+
+**Dados \& Dicionário:** Lista pré-definida de perguntas e respostas.
+
+**Integrações:** Base de conhecimento interna.
+
+**Segurança \& LGPD:** Garantir que nenhuma informação pessoal seja exibida nas respostas.
+
+**UX :** Interface simples, organizada em categorias de dúvidas.
+
+**Métricas e Telemetria:** Número de acessos, perguntas mais visualizadas.
+
+**Riscos \& Mitigações:** Risco de desatualização(Mitigação: revisão periódica).
+
+**Suposições \& Dependências:** Supondo que a equipe de suporte atualize as informações.
+
+**Critérios de aceite :** FAQ disponível no "HOME" com no mínimo 5 perguntas e respostas acessível
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------
+
+**Nome da funcionalidade:** Chatbots
+
+**Objetivo:** 
+
+**Descrição:** 
+
+**Escopo:**
+
+**Personas / Atores envolvidos:**
+
+**Principais jornadas:**
+
+**Regras de negócio:**
+
+**Dados \& Dicionário:**
+
+**Integra??es:**
+
+**Segurança \& LGPD:**
+
+**UX :**
+
+**Métricas e Telemetria:**
+
+**Riscos \& Mitiga??es:**
+
+**Suposições \& Dependências:**
+
+**Critérios de aceite :**
+
+
+
+
+
+
+
+
+
